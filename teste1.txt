@@ -1,0 +1,16 @@
+# Mostra os arquivos no diretorio atual.
+
+$ ls
+
+# Criação do arquivo txt.
+
+$ nano teste.txt
+
+# Criptografar o arquivo teste.txt.
+
+$ python encrypter.py
+
+# Descriptografar o arquivo.
+
+$ python decrypter.py
+
